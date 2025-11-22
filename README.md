@@ -30,16 +30,16 @@ The Cricket Data Analytics🏏 project is made on T-20 Cricket World Cup Data. I
 
 ![power_hitters_and_openers](Screenshots/power_hitters_and_openers.jpg)
 
-![Middle_Order](Screenshots/Middle Order.jpg)
+![Middle_Order](Screenshots/Middle%20Order.jpg)
 
-![Lower_Middle_Order](Screenshots/Lower Middle Order.jpg)
+![Lower_Middle_Order](Screenshots/Lower%20Middle%20Order.jpg)
 
-![Find_11](Screenshots/Find 11.jpg)
+![Find_11](Screenshots/Find%2011.jpg)
 
-![Fast_Bowler](Screenshots/Fast Bowler.jpg)
+![Fast_Bowler](Screenshots/Fast%20Bowler.jpg)
 
-![Bowling_Player](Screenshots/Bowling Players.jpg)
+![Bowling_Player](Screenshots/Bowling%20Player.jpg)
 
-![All_Rounder](Screenshots/All Rounder.jpg)
+![All_Rounder](Screenshots/All%20Rounder.jpg)
 
-![Batting_Player](Screenshots/Batting Player.jpg)
+![Batting_Player](Screenshots/Batting%20Player.jpg)
